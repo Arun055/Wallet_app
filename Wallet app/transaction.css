@@ -1,0 +1,51 @@
+.btn {
+    margin-left: 10px;
+}
+
+#search {
+    margin-left: 64%;
+}
+
+.hd {
+    margin-left: 3%;
+}
+
+.hd1,
+.hd2 {
+    margin-left: 30%;
+}
+
+@font-face {
+    font-family: "sample";
+    src: url('font/Therace.ttf');
+}
+
+.t {
+    width: 390px;
+    text-align: center;
+
+}
+
+.t1 {
+    width: 390px;
+    text-align: center;
+    height: 55px;
+
+}
+
+.t2 {
+    margin: 0;
+}
+
+.t1:hover {
+    box-shadow: 5px 5px 5px 5px #888888;
+
+
+
+}
+
+
+
+.hr {
+    width: 100%
+}
